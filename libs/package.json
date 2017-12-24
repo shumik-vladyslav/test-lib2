@@ -1,0 +1,28 @@
+{
+  "name": "test-lib2",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shumik-vladyslav/test-lib2.git"
+  },
+  "author": {
+    "name": "Shumik Vlad",
+    "email": "shumik.vladyslav@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shumik-vladyslav/test-lib2.git/issues"
+  },
+  "main": "test-lib2.umd.js",
+  "module": "test-lib2.js",
+  "jsnext:main": "test-lib2.js",
+  "typings": "test-lib2.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
